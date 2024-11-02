@@ -1,0 +1,6 @@
+This data package was downloaded from a MyCoPortal  Portal on 2024-02-27 15:59:36.
+
+Please use the following format to cite this dataset:
+Biodiversity occurrence data published by: MyCoPortal  (accessed through the MyCoPortal  Portal, https://www.mycoportal.org/portal, 2024-02-27).
+
+For more information on citation formats, please see the following page: https://www.mycoportal.org/portal/includes/usagepolicy.php
